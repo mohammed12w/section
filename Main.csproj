@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.Net.Sdk">
+	<PropertyGroup>
+		<TargetFrameWork>net6.0</TargetFrameWork>
+	 	<OutputType>Exe</OutputType>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+</Project>
